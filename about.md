@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[aand1@foxmail.com](mailto:and1@foxmail.com)
+[aand1@foxmail.com](mailto:aand1@foxmail.com)

@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+and1 is now pursuing the Master degree at swjtu.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+and1's research interests are in  the theoretical and algorithmic study in motion planning of wheel mobile robot. 
 
 ### Contact me
 

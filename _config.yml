@@ -30,8 +30,9 @@ footer-links:
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: https://plus.google.com/115446944357258854777# anything in your profile username that comes after plus.google.com/
   weibo: http://weibo.com/u/2154383980
+  zhihu: https://www.zhihu.com/people/guo-yi-cui
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account

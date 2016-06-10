@@ -12,4 +12,4 @@ and1's research interests are in  the theoretical and algorithmic study in motio
 
 ### Contact me
 
-[aand1@foxmail.com](mailto:aand1@foxmail.com)
+[aand1@foxmail.com](mailto:aand1@foxmail.com),you can also follow me on the socail apps on the footer.  
